@@ -2,7 +2,7 @@ import psycopg2
 
 try:
     connection = psycopg2.connect(user="sysadmin",
-                                  password="blu",
+                                  password="bluBracket2020!",
                                   host="127.0.0.1",
                                   port="5432",
                                   database="postgres_db")
